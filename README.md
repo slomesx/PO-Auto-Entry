@@ -94,6 +94,18 @@ Bug reports, suggestions, and feature requests are welcome.
 
 Your feedback will help guide future improvements and determine which features should be prioritized.
 
+##Support Development
+
+PO Auto Entry is a free experimental project developed under Never Final Lab.
+
+If you find this project useful and would like to support future experiments, you can contribute voluntarily.
+
+[**Support Never Final Lab on Buy Me a Coffee**](https://buymeacoffee.com/neverfinallab)
+
+Your support helps fund development tools, testing, and future prototypes.
+
+Thank you for supporting independent experimentation!
+
 ## Roadmap
 
 - OCR diagnostics and performance improvements
