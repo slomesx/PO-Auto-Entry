@@ -6,6 +6,16 @@ PO Auto Entry is an experimental Windows desktop application that explores extra
 
 The project focuses on an offline OCR workflow with human verification before exporting results.
 
+##Video Demo
+
+Watch the PO Auto Entry v0.1 demonstration on YouTube.
+
+[**Watch Demo — PO Auto Entry v0.1**](https://www.youtube.com/watch?v=tH6PBhtWAnQ)
+
+The video demonstrates the workflow from importing PDF purchase orders and configuring OCR regions to manual verification and Excel export.
+
+[**Download PO Auto Entry v0.1**](https://github.com/slomesx/PO-Auto-Entry/releases/tag/v0.1.0-poc)
+
 ## Features
 
 - Offline OCR using Tesseract
@@ -56,17 +66,33 @@ These results do not establish production readiness or OCR accuracy on real-worl
 
 ## Download
 
-Download the Windows prototype from the GitHub Releases section.
+[**Download PO Auto Entry v0.1**](https://github.com/slomesx/PO-Auto-Entry/releases/tag/v0.1.0-poc)
 
-The application is intended to run locally. Please review the release notes and system requirements before testing.
+1. Download POAutoEntry_Portable.zip from GitHub Releases.
+
+2. Extract the entire ZIP file.
+
+3. Open the extracted application folder.
+
+4. Run POAutoEntry.exe.
+
+5. Configure OCR regions and test with sample PDF documents.
+
+No separate Python or Tesseract installation is intended to be required.
+
+Note: The portable build has been tested on the development computer, including execution from a different drive. Compatibility with other Windows computers has not yet been independently verified.
 
 ## Development
 
 This project was developed with extensive AI-assisted coding, focusing on workflow design, testing and experimentation.
 
-## Feedback
+##Feedback
 
-Bug reports, suggestions and feature requests are welcome through GitHub Issues.
+Bug reports, suggestions, and feature requests are welcome.
+
+[**Report an Issue or Suggest a Feature**](https://github.com/slomesx/PO-Auto-Entry/issues)
+
+Your feedback will help guide future improvements and determine which features should be prioritized.
 
 ## Roadmap
 
